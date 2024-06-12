@@ -560,18 +560,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e5b102064e786b478ee7023d0db1456, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clothes: {fileID: 1348457957}
-  clothesRenderer: {fileID: 0}
-  Color1:
-    r: 0
-    g: 0
-    b: 0
-    a: 0
-  newClothesColor1:
-    r: 0.6431373
-    g: 0.38431376
-    b: 0.2509804
-    a: 1
 --- !u!212 &65282122
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1362,18 +1350,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e5b102064e786b478ee7023d0db1456, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clothes: {fileID: 1348457957}
-  clothesRenderer: {fileID: 0}
-  Color1:
-    r: 0
-    g: 0
-    b: 0
-    a: 0
-  newClothesColor1:
-    r: 0.6431373
-    g: 0.38431376
-    b: 0.2509804
-    a: 1
 --- !u!212 &146275927
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4657,7 +4633,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 83d9acc7968244a8886f3af591305bcb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  activeProfile: {fileID: 11400000, guid: d50d8d83d2f9df445a1a83733f9adf03, type: 2}
+  activeProfile: {fileID: 11400000, guid: 31a611a779d3499e8e35f1a2018ca841, type: 2}
 --- !u!4 &757326606
 Transform:
   m_ObjectHideFlags: 0
@@ -10824,18 +10800,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e5b102064e786b478ee7023d0db1456, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clothes: {fileID: 1348457957}
-  clothesRenderer: {fileID: 0}
-  Color1:
-    r: 0
-    g: 0
-    b: 0
-    a: 0
-  newClothesColor1:
-    r: 0.6431373
-    g: 0.38431376
-    b: 0.2509804
-    a: 1
 --- !u!4 &2126596714 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 969587eb86105ee4f997a3da92c0ba58, type: 3}
